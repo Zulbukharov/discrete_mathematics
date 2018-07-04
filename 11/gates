@@ -1,0 +1,9 @@
+1) P and !Q
+2) R => P
+3) if R:
+	P
+4) if P:
+	Q
+5) if !P
+	!Q
+
